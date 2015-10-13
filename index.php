@@ -5,7 +5,7 @@
 		<title>About Louis</title>
 	</head>
 	<body>
-			<p>Yo, these are some things I dig.</p>
+			<p>Yo, these are some things I dig:</p>
 		<ul>
 			<li>Pizza</li>
 			<li>Rainbows</li>
