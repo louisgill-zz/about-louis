@@ -17,7 +17,6 @@
 	</body>
 	<footer>
 		<input type="button" onclick="location.href='http://google.com';" value="DO NOT PUSH" />
-		<br>
 		<?php
 		$time = time();
 		echo $time;
