@@ -7,6 +7,7 @@
 	</head>
 	<body>
 		<header>The one, the only, Louis Gill.</header>
+		<hr>
 			<p>Yo, these are <em>some</em> things I dig:</p>
 		<ul>
 			<li>Pizza</li>
