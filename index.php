@@ -3,6 +3,7 @@
 	<head>
 		<meta charset="utf-8"/>
 		<title>About Louis</title>
+		<link rel="stylesheet" type="text/css" href="about-louis.css" title="style">
 	</head>
 	<body>
 			<p>Yo, these are some things I dig:</p>
@@ -12,4 +13,5 @@
 		</ul>
 		<img src="http://amishpolebarns.com/wp-content/uploads/2012/12/wood-slider-background.jpg" alt="wood"/>
 	</body>
+
 </html>
