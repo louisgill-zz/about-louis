@@ -4,4 +4,7 @@
 		<meta charset="utf-8"/>
 		<title>About Louis</title>
 	</head>
+	<body>
+		<p>Yo</p>
+	</body>
 </html>
