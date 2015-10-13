@@ -6,5 +6,6 @@
 	</head>
 	<body>
 		<p>Yo</p>
+		<img src="http://amishpolebarns.com/wp-content/uploads/2012/12/wood-slider-background.jpg" />
 	</body>
 </html>
