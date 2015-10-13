@@ -14,5 +14,8 @@
 			<li>Unicycles</li>
 		</ul>
 	</body>
+	<footer>
+		<button onclick="window.location.href='/page2'">Continue</button>
+	</footer>
 
 </html>
