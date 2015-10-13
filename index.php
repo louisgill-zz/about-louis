@@ -14,13 +14,13 @@
 			<li>sunsets</li>
 			<li>tandem bicycles</li>
 		</ul>
-	</body>
-	<footer>
+		<footer>
 		<input type="button" onclick="location.href='http://google.com';" value="DO NOT PUSH" />
 		<br>
 		<?php
 			$date = new DateTime();
 			echo $date->format('Y-m-d H:i:s') . "\n";
 		?>
-	</footer>
+		</footer>
+	</body>
 </html>
