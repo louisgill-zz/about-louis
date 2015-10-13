@@ -10,8 +10,8 @@
 		<ul>
 			<li>Pizza</li>
 			<li>Rainbows</li>
+			<li>Unicycles</li>
 		</ul>
-		<img src="http://amishpolebarns.com/wp-content/uploads/2012/12/wood-slider-background.jpg" alt="wood"/>
 	</body>
 
 </html>
