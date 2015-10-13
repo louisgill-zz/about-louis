@@ -8,7 +8,7 @@
 	<body>
 		<h1>The one, the only, Louis Gill.</h1>
 		<hr>
-			<p>Yo! These are just <em>some</em> things I dig:</p>
+			<h2>Yo! These are just <em>some</em> things I dig:</h2>
 		<ul>
 			<li>pizza</li>
 			<li>sunsets</li>
