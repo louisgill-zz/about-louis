@@ -5,7 +5,9 @@
 		<title>About Louis</title>
 	</head>
 	<body>
-		<p>Yo</p>
+		<main>
+			<p>Yo</p>
+		</main>
 		<img src="http://amishpolebarns.com/wp-content/uploads/2012/12/wood-slider-background.jpg" />
 	</body>
 </html>
