@@ -6,8 +6,8 @@
 		<link rel="stylesheet" type="text/css" href="about-louis.css" title="style">
 	</head>
 	<body>
-		<header>The one, the only, <em>Louis Gill</em></header>
-			<p>Yo, these are some things I dig:</p>
+		<header>The one, the only, Louis Gill.</header>
+			<p>Yo, these are <em>some</em> things I dig:</p>
 		<ul>
 			<li>Pizza</li>
 			<li>Rainbows</li>
