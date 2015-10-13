@@ -10,9 +10,9 @@
 		<hr>
 			<p>Yo, these are just <em>some</em> things I dig:</p>
 		<ul>
-			<li>Pizza</li>
-			<li>Sunsets</li>
-			<li>Unicycles</li>
+			<li>pizza</li>
+			<li>sunsets</li>
+			<li>tandem bicycles</li>
 		</ul>
 	</body>
 	<footer>
