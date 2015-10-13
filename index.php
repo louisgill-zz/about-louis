@@ -11,7 +11,7 @@
 			<p>Yo, these are just <em>some</em> things I dig:</p>
 		<ul>
 			<li>Pizza</li>
-			<li>Rainbows</li>
+			<li>Sunsets</li>
 			<li>Unicycles</li>
 		</ul>
 	</body>
