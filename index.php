@@ -18,8 +18,8 @@
 	<footer>
 		<input type="button" onclick="location.href='http://google.com';" value="DO NOT PUSH" />
 		<?php
-		$time = time();
-		echo $time;
-	?>
+			$date = new DateTime();
+			echo $date->format('U = Y-m-d H:i:s') . "\n";
+		?>
 	</footer>
 </html>
