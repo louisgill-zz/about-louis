@@ -15,7 +15,7 @@
 		</ul>
 	</body>
 	<footer>
-		<input type="button" onclick="location.href='http://google.com';" value="Go to Google" />
+		<input type="button" onclick="location.href='http://google.com';" value="DO NOT PUSH" />
 	</footer>
 
 </html>
