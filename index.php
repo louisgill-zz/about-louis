@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="utf-8"/>
 		<title>About Louis</title>
-		<link rel="stylesheet" type="text/css" href="about-louis.css" title="style">
+		<link rel="stylesheet" type="text/css" href="about-louis.css" title="about-louis">
 	</head>
 	<body>
 		<h1>The one, the only, Louis Gill.</h1>
